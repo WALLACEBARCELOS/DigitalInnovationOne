@@ -1,2 +1,2 @@
 # DigitalInnovationOne
-Primeiro dedicado a projetos da dio.
+Repositorio dedicado a projetos da dio.
